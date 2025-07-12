@@ -1,0 +1,208 @@
+
+* {
+    font-family: 'Poppins' sans-serif;
+    margin: 0;
+    padding: 0;    
+    box-sizing: border-box;
+}
+
+header {
+    margin-top: 17px;
+    margin-left: 42px;
+}
+/*Meus erros:
+Fiz isso: 
+header {
+    margin: 44px 0 144px 76px;
+}
+    No lugar diss:
+    header {
+    margin-top: 47px;
+    margin-left: 42px;
+}
+    Fiz isso:
+    .link-header {
+        line-height: 100%;
+}
+        No lugar disso:
+            .link-header {
+        line-height: 21;
+}
+*/
+
+.link-header {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.875px;
+    cursor: pointer;
+    margin-right: 32px;        
+    color: #17233d
+}
+/*Meus erros:
+Fiz isso: 
+    .link-header {
+        line-height: 100%;
+            line-height: 21%;
+                margin-right: 21px; 
+}
+        No lugar disso:
+            .link-header {
+                line-height: 21;
+                     line-height: 21px;
+                         margin-right: 32px;  
+}
+        Adicionado sem necessidade:     letter-spacing: 0.88px;
+        Não foi adicionado:             letter-spacing: 0.875px;
+*/
+
+.link-header:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.button-header {
+    background: #6fbf44;
+    border: 1px solid #4cb538;
+    border-radius: 6px;
+    width: 124;
+    height: 51;        
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #ffffff
+}
+/*Meus erros:
+Fiz isso:
+    .button-header {
+        border: 1px solid #4b505a;
+}
+        No lugar disso:
+          .button-header {
+              border: 1px solid #4cb538;
+}
+          Não foi adicionado:
+              font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+
+*/          
+ .button-header:hover {
+    opacity: 0.6;
+}
+
+.imagem-Casal {
+    margin: 53px 0 0 123px;
+    display:inline-block;
+}
+/*Meus erros:
+Fiz isso:
+.imagem-Casal {
+    margin: 163px 0 0 123px;
+    width: 495.18px;
+    height: 400px;    
+    display:inline-block;
+}
+No lugar disso:
+.imagem-Casal {
+    margin: 163px 0 0 123px;
+}
+ */              
+section {
+    display:inline-block;
+    margin-left: 85px;
+    width: 493px;
+}
+/*Meus erros:
+Fiz isso:
+section {
+    display:inline-block;
+    margin-top: -1462px;
+    margin-left: -435px;
+}
+No lugar disso:
+section {
+    display:inline-block;
+}
+ */ 
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;    
+    letter-spacing: 0.596154px;
+    color: #161a49
+}
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #4b505a;
+    margin-top: 27px;
+    margin-bottom: 35px;    
+}
+/*Meus erros:
+Fiz isso:
+p {
+    width: 493px;
+    height: 99px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    margin-top: 533;
+    margin-left: 801px;
+    color: #4b505a;
+}
+ No lugar disso:
+ p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #4b505a;    
+ */
+.button-main {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color: #6fbf44;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+}
+/*Meus erros:
+Fiz isso:
+.button-main {
+    border-radius: 20.5px;
+    width: 112px;
+    height: 27px;
+    cursor: pointer;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 1px;
+    color: #6fbf44;
+}
+ No lugar disso:
+ p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #4b505a;    
+ */
+ /* OBS: Verificar se o navegador está com zoom ou não. Pois o zoom atrapalha, 
+ as imagens o h1, h2, p, não se encaichão até retirar o zoon 
+ */
+.button-main:hover {
+    opacity: 0.6;
+}

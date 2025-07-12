@@ -1,0 +1,11 @@
+@media screen (780px){
+
+    body {
+        width: 100vh;
+        heigth: 100vh;        
+    }
+    header {
+        visibility: hidden;   /* Ou, para ocultar e manter o espaço */
+    }
+    
+}
