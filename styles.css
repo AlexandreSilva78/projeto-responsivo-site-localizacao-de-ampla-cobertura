@@ -55,16 +55,24 @@ header {
 }
 
 .imagem-Casal {
-  margin: 53px 0 0 123px;
+  margin: 7px 0 0 100px;
   display: inline-block;
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
 }
 
+main {
+  display: flex;
+  align-items: flex-start;
+  margin-top: 50px;
+}
+
 section {
-  display: inline-block;
   margin-left: 85px;
   width: 493px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 h1 {
