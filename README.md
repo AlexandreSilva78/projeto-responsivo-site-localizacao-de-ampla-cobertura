@@ -1,11 +1,11 @@
 # 🌐 Projeto Responsivo: Site de Localização de Ampla Cobertura
 
 <p align="center">
-  <img src="./notebook-preview.png" alt="Preview do projeto no notebook" width="600"/>
+  <img src="./notebook-preview.png.png" alt="Preview do projeto no notebook" width="600"/>
 </p>
 
 <p align="center">
-  <img src="./mobile-preview.png" alt="Preview do projeto no celular" width="300"/>
+  <img src="./mobile-preview.png.png" alt="Preview do projeto no celular" width="300"/>
 </p>
 
 Este projeto é um site responsivo criado com **HTML5** e **CSS3**, que simula uma página de apresentação para um serviço de passeios urbanos. O foco está na **experiência mobile**, com layout limpo, menus aéreos organizados e uma imagem ilustrativa simulando compras online.
