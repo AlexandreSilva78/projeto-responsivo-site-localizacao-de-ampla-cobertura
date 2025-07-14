@@ -34,7 +34,9 @@ https://github.com/AlexandreSilva78/projeto-responsivo-site-localizacao-de-ampla
   - Botão "Inscrever-se" centralizado abaixo do menu
   - Imagem centralizada
   - Texto e botão "Saiba mais" centralizados na vertical
-
+<a href="https://alexandresilva78.github.io/projeto-responsivo-site-localizacao-de-ampla-cobertura/" target="_blank">
+  <button>Abrir Projeto Online</button>
+</a>
 ---
 
 ## 🧪 Tecnologias utilizadas
