@@ -2,6 +2,8 @@
 <a href="https://alexandresilva78.github.io/projeto-responsivo-site-localizacao-de-ampla-cobertura/" target="_blank" alt='Projeto-Responsivo' >
   Acesse o site publicado.
 </a>
+<br>
+<br>
 <p align="center">
   <img src="./notebook-preview.png.png" alt="Preview do projeto no notebook" width="600"/>
 </p>
